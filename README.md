@@ -1,2 +1,2 @@
 # Randomorg-Project
-This is a random org copy
+This is a random org clone.
